@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Welcome to My Profile!  
 
-<!--
-**TheWebSlayer/TheWebSlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Piyush**, a passionate **Web Developer** eager to create impactful digital experiences.  
 
-Here are some ideas to get you started:
+🌐 Full Stack Web Developer  
+🎨 UI/UX Enthusiast  
+💻 MERN Stack Learner  
+📊 Python for Data Analysis  
+💡 Problem Solver  
+🏆 Certified in Cybersecurity & Cloud Tech  
+💼 Aspiring Freelancer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Reach me at: `piyushsinghthakur128@gmail.com`  
+Let's collaborate and build something amazing! 🚀  
